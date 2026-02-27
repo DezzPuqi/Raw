@@ -1,10 +1,10 @@
 {
   "name": "DezzBGram",
-  "version": "10.0.0",
-  "build": "1000",
-  "channel": "Ultimate Polish",
-  "commit": "local",
+  "version": "0.0.1-beta.1",
+  "build": "1",
+  "channel": "beta",
+  "commit": "init",
   "date": "2026-02-27",
-  "author": "Dezz",
-  "notes": "Tools lengkap (arsip, pin/unpin, polling), login 3-step (token/owner/otp sekali), HTML support, forward style Telegram, upload media + caption, PP user/grup fix."
+  "author": "DezzPuqi",
+  "notes": "Initial beta release (first public build)."
 }
